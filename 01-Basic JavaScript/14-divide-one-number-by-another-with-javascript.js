@@ -1,0 +1,1 @@
+const quotient = 6 / 3;
