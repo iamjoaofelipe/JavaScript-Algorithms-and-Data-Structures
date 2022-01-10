@@ -1,2 +1,2 @@
-const lastName = "Lovelace";
-console.log(lastName[2]);
+var lastName = "Lovelace";
+var thirdLetterOfLastName = lastName[2];
