@@ -7,4 +7,4 @@ var myArray = [
 
 var removedFromMyArray = myArray.pop();
 
-console.log(myArray)
+console.log(myArray);
